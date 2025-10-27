@@ -276,10 +276,10 @@ npm run preview
 MIT License
 
 ## 👨‍💻 Author
-Your Name
+Uswa Fatima
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📧 Support
-For support, email your-email@example.com or create an issue in the repository.
+For support, email your-uswaf5667@gmail.com or create an issue in the repository.
